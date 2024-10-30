@@ -1,4 +1,5 @@
-<h1>📊 GitHub Stats</h1>
+#📊 GitHub Stats
+
 <div align="center"> 
  <a href="https://github.com/anuraghazra/github-readme-stats">
    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YQh9Mh3181jzEJ5&layout=compact&theme=onedark"/>
@@ -14,5 +15,5 @@
 </div>
 
 ## Get in Touch
-- X: [https://twitter.com/your_handle](https://x.com/waltz29pf)
-- blog: [@waltz29pf](https://microcms-nextjs-blog-tau.vercel.app/)]
+- X (Twitter): [https://x.com/waltz29pf](https://x.com/waltz29pf)
+- Blog: [https://microcms-nextjs-blog-tau.vercel.app/](https://microcms-nextjs-blog-tau.vercel.app/)]
