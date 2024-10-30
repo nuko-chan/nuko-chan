@@ -14,6 +14,6 @@
  </a>
 </div>
 
-## Get in Touch
-- X (Twitter): [https://x.com/waltz29pf](https://x.com/waltz29pf)
-- Blog: [https://microcms-nextjs-blog-tau.vercel.app/](https://microcms-nextjs-blog-tau.vercel.app/)]
+## 🌐 Get in Touch
+- 🐦 X (Twitter): [https://x.com/waltz29pf](https://x.com/waltz29pf)
+- 📝 Blog: [https://microcms-nextjs-blog-tau.vercel.app/](https://microcms-nextjs-blog-tau.vercel.app/)
