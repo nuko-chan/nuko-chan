@@ -1,6 +1,5 @@
-<div align="center">
- <h1>📊 GitHub Stats</h1>
- 
+<h1>📊 GitHub Stats</h1>
+<div align="center"> 
  <a href="https://github.com/anuraghazra/github-readme-stats">
    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YQh9Mh3181jzEJ5&layout=compact&theme=onedark"/>
  </a>
@@ -13,3 +12,7 @@
       <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=YQh9Mh3181jzEJ5&theme=onedark&column=4&margin-w=8&margin-h=8" />
  </a>
 </div>
+
+## Get in Touch
+- X: [https://twitter.com/your_handle](https://x.com/waltz29pf)
+- blog: [@waltz29pf](https://microcms-nextjs-blog-tau.vercel.app/)]
