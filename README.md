@@ -1,4 +1,4 @@
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center"> 
    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YQh9Mh3181jzEJ5&layout=compact&theme=onedark"/>
