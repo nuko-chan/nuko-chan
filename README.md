@@ -10,6 +10,6 @@
  </a>
  
  <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=YQh9Mh3181jzEJ5&theme=onedark&column=7&margin-w=20&margin-h=20" />
+   <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=YQh9Mh3181jzEJ5&theme=onedark&column=4" />
  </a>
 </div>
