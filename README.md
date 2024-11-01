@@ -1,11 +1,8 @@
-## 📊 GitHub Stats
-
 <h1>Hi there 👋</h1>
-  
-  <p>
-    I'm a Full-stack Developer passionate about JavaScript/TypeScript, React, and Ruby on Rails.
-    Currently focusing on backend development and system architecture.
-  </p>
+<p>
+  I'm a Full-stack Developer passionate about JavaScript/TypeScript, React, and Ruby on Rails.
+  Currently focusing on backend development and system architecture.
+</p>
 
 <div align="center"> 
   <img 
@@ -24,6 +21,6 @@
   />
 </div>
 
-## 🌐 Get in Touch
+<h2>🌐 Get in Touch</h1>
 - 🐦 X (Twitter): [https://x.com/waltz29pf](https://x.com/waltz29pf)
 - 📝 Blog: [https://microcms-nextjs-blog-tau.vercel.app/](https://microcms-nextjs-blog-tau.vercel.app/)
