@@ -12,11 +12,6 @@
   />
 
   <img
-    alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=waltz29pf&theme=onedark&show_icons=true"
-  />
-
-  <img
     alt="GitHub Trophies"
     src="https://github-profile-trophy.vercel.app/?username=waltz29pf&theme=onedark&column=4&margin-w=8&margin-h=8"
   />
