@@ -10,11 +10,6 @@
     alt="Top Languages"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=waltz29pf&layout=compact&theme=onedark"
   />
-
-  <img
-    alt="GitHub Trophies"
-    src="https://github-profile-trophy.vercel.app/?username=waltz29pf&theme=onedark&column=4&margin-w=8&margin-h=8"
-  />
 </div>
 
 <h2>🌐 Get in Touch</h2>
