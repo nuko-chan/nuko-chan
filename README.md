@@ -2,8 +2,8 @@
   
 # 👋 ぬこ | Web系エンジニア
 
-[![X Follow](https://img.shields.io/twitter/follow/your_twitter_handle?style=social)]([https://twitter.com/your_twitter_handle](https://x.com/waltz29pf))
-[![Blog](https://img.shields.io/badge/Blog-読む-blue)]([https://your-blog-url.com](https://nuko-chan.pages.dev/))
+[![X Follow](https://img.shields.io/twitter/follow/your_twitter_handle?style=social)]([[https://twitter.com/your_twitter_handle](https://x.com/waltz29pf)](https://x.com/waltz29pf))
+[![Blog](https://img.shields.io/badge/Blog-読む-blue)]([[https://your-blog-url.com](https://nuko-chan.pages.dev](https://nuko-chan.pages.dev))
 
 </div>
 
@@ -25,13 +25,3 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## 📊 GitHub統計
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waltz29pf&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waltz29pf&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
