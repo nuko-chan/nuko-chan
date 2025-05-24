@@ -1,6 +1,6 @@
 # 👋 はじめまして
 
-東京でWebアプリ開発をしています！
+東京でWebアプリ開発のフリーランスをしています！
 
 - X: https://x.com/waltz29pf
 - 技術ブログ: https://nuko-chan.pages.dev
