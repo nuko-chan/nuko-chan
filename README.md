@@ -1,13 +1,5 @@
-<div align="center">
-  
-# 👋 ぬこ | Web系エンジニア
-
-[![X Follow](https://img.shields.io/twitter/follow/your_twitter_handle?style=social)]([[https://twitter.com/your_twitter_handle](https://x.com/waltz29pf)](https://x.com/waltz29pf))
-[![Blog](https://img.shields.io/badge/Blog-読む-blue)]([[https://your-blog-url.com](https://nuko-chan.pages.dev](https://nuko-chan.pages.dev))
-
-</div>
-
----
+- X: https://x.com/waltz29pf
+- 技術ブログ: https://nuko-chan.pages.dev
 
 ## 💻 技術スタック
 
