@@ -15,7 +15,7 @@
   - 要件定義、設計、実装、テスト、保守運用
   - 技術選定、アーキテクチャ設計
   - 新人指導、コードレビュー
-　- 主要技術: React, Vite, TanStack Query, Jotai, Mantine, Vitest
+  - 主要技術: React, Vite, TanStack Query, Jotai, Mantine, Vitest
 
 - 今後の方向性: Go/GinによるAPI開発をメインに活動予定
 
