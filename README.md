@@ -20,23 +20,23 @@
 
 **連絡先**: [X (Twitter)](https://x.com/nukochan_123) のDMへお願いします
 
-### 希望条件
+## 希望条件
 
 フルリモートでのフルスタック案件を探しています。
 
-## 技術スタック
+### 技術スタック
 - **Frontend**: React / Next.js / TypeScript
 - **Backend**: Node.js（Express / Hono）
 - **Infra**: AWS（学習中）
 
-## 求めている環境
+### 求めている環境
 - TypeScript + React/Next.js を使った開発
 - バックエンド（Node.js）にも関われる案件
 - 新規開発 or モダン化プロジェクト
 - PRレビュー文化のあるチーム
 - フルリモート（地方在住予定のため）
 
-## 興味のある領域
+### 興味のある領域
 - API設計（REST / GraphQL）
 - 認証認可、DB設計
 - DX改善、CI/CD
