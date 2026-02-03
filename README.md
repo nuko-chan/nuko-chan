@@ -27,7 +27,7 @@
 ### 技術スタック
 - **Frontend**: React / Next.js / TypeScript
 - **Backend**: Node.js（Express / Hono）
-- **Infra**: AWS（学習中）
+- **Infra**: AWS / GCP
 
 ### 求めている環境
 - TypeScript + React/Next.js を使った開発
