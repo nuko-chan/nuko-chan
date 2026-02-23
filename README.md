@@ -55,16 +55,15 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 
-## 📢 案件募集中 (2026-02-19 現在)
+## 📢 案件募集中 (2026年02月 現在)
 
-フルリモートで、バックエンドに本格的に関われるフルスタック案件を探しています。
+バックエンドに本格的に関われる案件を探しています。
 
 | 項目     | 内容                                                          |
 | -------- | ------------------------------------------------------------- |
 | 技術     | TypeScript + Node.js（Express / Hono）+ React / Next.js       |
-| 希望案件 | 新規開発 or モダン化、バックエンド比率 3 割以上               |
+| 希望案件 | 新規開発 or モダン化
 | 興味領域 | API 設計、認証認可、DB 設計、例外設計、テスト戦略、CI/CD      |
-| 働き方   | フルリモート                                                  |
 
 ## 🔗 Links
 
