@@ -56,7 +56,12 @@
 | 希望案件 | 新規開発 or モダン化
 | 興味領域 | API 設計、認証認可、DB 設計、例外設計、テスト戦略、CI/CD      |
 
-## 🔗 Links
+## 🐈 好きな動物
+
+もちろん猫ですが犬もいいですね。
+最近はフェネックの動画ばかり見て癒やされています。
+
+## 🔗 リンク
 
 - X: [https://x.com/nukochan_123](https://x.com/nukochan_123)
 - Blog: [https://nuko-chan.pages.dev](https://nuko-chan.pages.dev)
