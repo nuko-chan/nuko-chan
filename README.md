@@ -17,13 +17,12 @@
 
 ## 📍 いまやっていること
 
-- 🐹 Go の入門書を一周中
 - 🤖 Claude Code の skill 機能を試行錯誤中
 - 📝 技術ブログを Next.js + Obsidian で運用中
 
 ## 🚀 作っているもの
 
-- [ddd-issue-tracker](https://github.com/nuko-chan/ddd-issue-tracker) — DDD レイヤー分離の学習用 Issue Tracker（TypeScript + Hono + Prisma + PostgreSQL）
+- [ddd-issue-tracker](https://github.com/nuko-chan/ddd-issue-tracker) — DDD レイヤー分離の学習用
 
 ---
 
