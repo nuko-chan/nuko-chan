@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>ぬこ🐾</b> — 東京で Web アプリを作っているフリーランスエンジニアです<br />
-  プログラミングが大好きで、TypeScript・Next.js・Hono や Claude Code などの AI ツールで開発しています
+  TypeScript・Next.js・Hono と AI ツールでものづくりしています
 </p>
 
 <p align="center">
@@ -38,40 +38,20 @@
 | Codex | 並列タスクやセカンドオピニオンに |
 | Cursor | エディタとして日常使い |
 
-## 💼 ふだんやっていること
+## 📍 Now
 
-- 🖥️ 業務画面や管理画面まわりの設計・実装
-- 🔌 REST API・バックエンドの設計・実装
-- 🗃️ DB スキーマ設計や運用クエリ
-- 🤖 Claude Code / Codex を使った開発フローづくり
-- 🧹 ふわっとした要件を整理して、小さく作って確かめるスタイルの開発
+- 🏗️ DDD + オニオンアーキテクチャで Issue Tracker を構築中 → [ddd-issue-tracker](https://github.com/nuko-chan/ddd-issue-tracker)
+- 📝 技術ブログを Next.js + Obsidian で運用中 → [nuko-chan.pages.dev](https://nuko-chan.pages.dev)
+- 🐹 Go の入門書を一周中
+- 🤖 Claude Code の skill 機能を試行錯誤中
 
-## 📖 これまでのこと
+## 🚀 作っているもの
 
-- 🔄 2023年にエンジニアへ転身。正社員を経て、今はフリーランス
-- 📦 物流・エンタメ・業務系 SaaS など、いろいろな領域を経験
-- ⚡ 直近はバックエンド寄りのフルスタック開発が中心
-- 🎨 過去にはチームのフロントエンドまわりをまとめる役割も
-- 🔨 設計から実装、運用まで一通り手を動かすのが好き
+| リポジトリ | 概要 |
+|------------|------|
+| [ddd-issue-tracker](https://github.com/nuko-chan/ddd-issue-tracker) | DDD レイヤー分離の学習用 Issue Tracker（TypeScript + Hono + Prisma + PostgreSQL） |
 
-## 🌱 最近がんばっていること
-
-| テーマ | モチベーション |
-|--------|----------------|
-| Go | TypeScript 以外の引き出しも持っておきたい |
-| AWS・インフラ設計 | アプリの土台側も自分で組めるようになりたい |
-| バックエンド設計 | 同じ問題にいろんな角度から対応できるように |
-| LLM 活用の開発フロー | 手を動かして試行錯誤中 |
-
-## ❤️ 好きなこと・興味のあること
-
-```
-🔐 権限・ワークフローなど、業務ロジックが複雑な領域
-🏦 金融や医療系など、ルールが多い SaaS
-💬 設計やアーキテクチャについてちゃんと話し合える環境
-⚙️ CI やコード品質など、開発体験をよくしていくこと
-🤖 AI を使って開発をもっとラクにする試行錯誤
-```
+OSS や自分のための小さなツールを作るのが好きです。公開できるものは順次増やしていきます 🐾
 
 ## 🧰 普段の道具
 
@@ -106,17 +86,21 @@
   </tr>
 </table>
 
-## ☕ はたらく燃料
+## 📊 GitHub Stats
 
-> ☕ **ブラックコーヒー** — 毎朝の必需品。15時以降は控えめに
->
-> 🖥️ **スタンディングデスク** — 立ちながらだと頭が回る
->
-> 🚶 **散歩できる時間** — 行き詰まったら歩く。考え事は大体歩くとまとまります
->
-> 🎧 **静かな環境** — イヤホンがあれば、わりとどこでも集中できます
->
-> 💪 **たまに筋トレ** — プロテイン込みで。コードを書く体力はここから
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuko-chan&layout=compact&theme=default&hide=html,css" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nuko-chan&show_icons=true&theme=default&hide_title=true" alt="GitHub Stats" />
+</p>
+
+## 💬 連絡について
+
+- 🏢 仕事・案件の話 → [ブログのお問い合わせ](https://nuko-chan.pages.dev/about) か [X の DM](https://x.com/nukochan_123) へ
+- 🐛 リポジトリへの Issue・PR は歓迎です
+- 🌏 日本語でも英語でも OK
 
 ---
 
