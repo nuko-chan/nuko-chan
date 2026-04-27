@@ -2,7 +2,8 @@
 
 <p align="center">
   東京で Web アプリを作っている「ぬこ」です<br />
-  TypeScript が好きで、フロントもバックもどっちも書きます
+  TypeScript が好きで、フロントエンドもバックエンドもどっちも書きます<br />
+  AI に仕事を取られないよう、AI をめいっぱい使って対抗しています
 </p>
 
 ## 🛠️ よく使う技術
@@ -18,7 +19,7 @@
 - 🤖 Claude Code の skill 機能を試行錯誤中
 - 📝 技術ブログを Next.js + Obsidian で運用中
 
-## 🚀 作っているもの
+## 🚀 最近作ってるもの
 
 - [ddd-issue-tracker](https://github.com/nuko-chan/ddd-issue-tracker) — DDD レイヤー分離の学習用
 
