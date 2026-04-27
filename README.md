@@ -2,7 +2,7 @@
 
 <p align="center">
   東京で Web アプリを作っているフリーランスエンジニアです<br />
-  TypeScript・Next.js・Hono と AI ツールでものづくりしています
+  TypeScript が好きで、フロントもバックもどっちも書きます
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ---
 
-## 🛠️ 技術スタック
+## 🛠️ よく使う技術
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -22,15 +22,15 @@
 
 ## 🤖 AI ツール
 
-毎日の開発に AI を組み込んでいます
+毎日の開発で使っています
 
-| ツール | 使い方 |
-|--------|--------|
+| ツール      | 使い方                             |
+| ----------- | ---------------------------------- |
 | Claude Code | メインの AI コーディングパートナー |
-| Codex | 並列タスクやセカンドオピニオンに |
-| Cursor | エディタとして日常使い |
+| Codex       | 並列タスクやセカンドオピニオンに   |
+| Cursor      | エディタとして日常使い             |
 
-## 📍 Now
+## 📍 いまやっていること
 
 - 🐹 Go の入門書を一周中
 - 🤖 Claude Code の skill 機能を試行錯誤中
@@ -42,7 +42,12 @@
 
 ---
 
-<p align="center">
-  詳しくは <a href="https://nuko-chan.pages.dev">技術ブログ</a> へ 🐾<br />
-  連絡は <a href="https://x.com/nukochan_123">X の DM</a> からどうぞ
-</p>
+## 📖 もうちょっと知りたい方へ
+
+ブログにもう少し詳しく書いています
+
+- [自己紹介](https://nuko-chan.pages.dev/about) — これまでのことや、ふだんやっていること
+- [技術スタック](https://nuko-chan.pages.dev/about) — 使っている技術の詳細
+- [ブログ記事](https://nuko-chan.pages.dev) — 開発で考えたこと・試したことを書いています
+
+連絡は [X の DM](https://x.com/nukochan_123) からお気軽にどうぞ 🐾
