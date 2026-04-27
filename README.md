@@ -5,8 +5,6 @@
   TypeScript が好きで、フロントもバックもどっちも書きます
 </p>
 
----
-
 ## 🛠️ よく使う技術
 
 <p align="center">
@@ -23,8 +21,6 @@
 ## 🚀 作っているもの
 
 - [ddd-issue-tracker](https://github.com/nuko-chan/ddd-issue-tracker) — DDD レイヤー分離の学習用
-
----
 
 ## 📖 もうちょっと知りたい方へ
 
