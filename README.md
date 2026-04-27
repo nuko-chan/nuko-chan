@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,ts,react,nextjs,tailwind,nodejs,express,hono,postgres,prisma,aws,terraform,docker" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=html,css,ts,react,nextjs,tailwind,nodejs,express,postgres,prisma,aws,terraform,docker" alt="Tech Stack" />
   </a>
 </p>
 
