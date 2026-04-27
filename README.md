@@ -24,4 +24,5 @@
 
 ## 📖 もうちょっと知りたい方へ
 
-詳しくは [技術ブログ](https://nuko-chan.pages.dev) に書いています。連絡は [X の DM](https://x.com/nukochan_123) からお気軽にどうぞ 🐾
+- 詳しくは [技術ブログ](https://nuko-chan.pages.dev) に書いています。
+- 連絡は [X の DM](https://x.com/nukochan_123) からお気軽にどうぞ 🐾
