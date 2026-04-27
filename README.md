@@ -12,15 +12,11 @@
 
 ## 🛠️ 技術スタック
 
-```
-📝 言語            TypeScript
-⚛️ フロントエンド   React / Next.js
-🔧 バックエンド     Node.js / Express / Hono
-🗄️ データベース     PostgreSQL / Prisma
-☁️ クラウド         AWS (Lambda / Aurora / Cognito / S3)
-🏗️ IaC            Serverless Framework / Terraform
-🧩 設計            DDD / オニオンアーキテクチャ
-```
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,express,hono,postgres,prisma,aws,terraform,docker" alt="Tech Stack" />
+  </a>
+</p>
 
 ## 🤖 AI ツール
 
